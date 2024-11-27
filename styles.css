@@ -3,10 +3,19 @@
 body{ 
     background-color: #a2d2ff;
     font-family: "Georgia", Arial, Tahoma; 
+    Margin: 20px;
+    border: 10px solid rgb(25, 86, 110);
+    padding-left: 20px;
+    content: 120%;
 }
 header {
     text-align: center;
 }
+
+.Money {
+    color: rgb(0, 9, 128);
+}
+
 p{
     color: #495057;
     font-weight: 700;
@@ -23,12 +32,15 @@ h3{
     font-size: 30px;
     font-weight: bolder;
     text-align: center;
-    text-decoration: underline; 
 }
 
 h4{
     font-size: 25px;
     font-style: italic;
+}
+
+#first-para{
+    color:rgb(0, 9, 128)
 }
 footer{
     text-align: center; 
