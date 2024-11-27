@@ -1,27 +1,40 @@
+/* Have a look at my coding and let me know what needs fixing. Thanks */
+
 body{ 
     background-color: #a2d2ff;
     font-family: "Georgia", Arial, Tahoma; 
 }
-
+header {
+    text-align: center;
+}
 p{
     color: #495057;
     font-weight: 700;
+    line-height: 1.6;
 }
 
 li{
     color: rgb(0, 9, 128);
     font-style: italic;
     font-weight: 600;
-}
-h3{ 
+    }
+
+h3{
     font-size: 30px;
     font-weight: bolder;
+    text-align: center;
+    text-decoration: underline; 
 }
 
 h4{
     font-size: 25px;
     font-style: italic;
 }
+footer{
+    text-align: center; 
+}
+
+
 
 
 
